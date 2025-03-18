@@ -1,5 +1,5 @@
 # Selenium_Java_Projects
-Ecommerce site Flipkart's end-to-end application automation using Selenium and Java.
+Ecommerce site Flipkart's end-to-end application automation using Selenium and Java:
 Here's a high-level automation flow:
 
 1. Environment SetUp:
